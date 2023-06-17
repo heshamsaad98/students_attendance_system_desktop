@@ -1,0 +1,19 @@
+icons_launcher:
+  image_path: 'assets/images/logo_launcher.png'
+  platforms:
+    android:
+      enable: true
+      image_path: 'assets/images/logo_launcher.png'
+    ios:
+      enable: true
+      image_path: 'assets/images/logo_launcher.png'
+    web:
+      enable: true
+      image_path: 'assets/images/logo_launcher.png'
+      favicon_path: 'assets/images/logo_launcher.png'
+    macos:
+      enable: true
+      image_path: 'assets/images/logo_launcher.png'
+    windows:
+      enable: true
+      image_path: 'assets/images/logo_launcher.png'
